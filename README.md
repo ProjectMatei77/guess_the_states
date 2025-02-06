@@ -1,5 +1,7 @@
  U.S. States Guessing Game
-This is a Python game using Turtle and Pandas, where the player must guess all 50 U.S. states by entering their names. The guessed states will be displayed on a U.S. map. If the player quits, a CSV file (states_to_learn.csv) is created with the missing states to help with learning.
+This is a Python game using Turtle and Pandas, where the player must guess all 50 U.S. states by entering their names. 
+The guessed states will be displayed on a U.S. map. 
+If the player quits, a CSV file (states_to_learn.csv) is created with the missing states to help with learning.
 
 How to Play
 Run the script.
