@@ -7,11 +7,11 @@ If the player quits, a CSV file (states_to_learn.csv) is created with the missin
 How to Play
 
 Run the script.
-A U.S. map appears.
-Type the name of a U.S. state in the pop-up text box.
-If correct, the state's name appears on the map at its correct location.
-Continue guessing until you get all 50 states or type "Exit" to stop.
-If you exit early, a CSV file (states_to_learn.csv) is generated with the missing states.
+ A U.S. map appears.
+ Type the name of a U.S. state in the pop-up text box.
+ If correct, the state's name appears on the map at its correct location.
+ Continue guessing until you get all 50 states or type "Exit" to stop.
+ If you exit early, a CSV file (states_to_learn.csv) is generated with the missing states.
 
 
 Files Included
